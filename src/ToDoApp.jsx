@@ -39,6 +39,7 @@ function ToDoApp() {
 
     if(isDuplicate){
       setError("This task already exists.");
+      setInput("")
       return;
     }
   
@@ -59,6 +60,7 @@ function ToDoApp() {
 
     if(duplicateText){
       setError("This task already exists.");
+      setEditText("")
       return;
     }
 
