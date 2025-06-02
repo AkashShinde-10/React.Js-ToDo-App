@@ -19,8 +19,17 @@ A fully functional To-Do List application built with **React.js**, offering the 
 
 ## 📸 Screenshots
 
-<img src="screenshot1.png" alt="To-Do App Screenshot" width="400">
-<!-- Add your screenshots in the project folder -->
+### 🏠 All Tasks
+![Home Page](./public/ScreenShots/All.png)
+
+### ✏️ Active Tasks
+![Edit Task](./public/ScreenShots/Active.png)
+
+### ✅ Completed Tasks
+![Completed Task](./public/ScreenShots/Completed.png)
+
+### ✏️ Editing Task
+![Edit Task](./public/ScreenShots/Edit.png)
 
 ---
 
