@@ -14,22 +14,24 @@ A fully functional To-Do List application built with **React.js**, offering the 
 - 💾 Data stored in localStorage
 - ⚠️ Error messages for empty or duplicate tasks
 - 🖥️ Responsive UI
+- ✅ Keyboard shortcuts (Enter key to add/edit)
+- ⚠️ Input validations with toast error messages
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 All Tasks
-![Home Page](./public/ScreenShots/All.png)
+![Home Page](./ScreenShots/All.png)
 
 ### ✏️ Active Tasks
-![Edit Task](./public/ScreenShots/Active.png)
+![Active Task](./ScreenShots/Active.png)
 
 ### ✅ Completed Tasks
-![Completed Task](./public/ScreenShots/Completed.png)
+![Completed Task](./ScreenShots/Completed.png)
 
 ### ✏️ Editing Task
-![Edit Task](./public/ScreenShots/Edit.png)
+![Edit Task](./ScreenShots/Edit.png)
 
 ---
 
