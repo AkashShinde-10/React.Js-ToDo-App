@@ -51,7 +51,7 @@ A fully functional To-Do List application built with **React.js**, offering the 
    ```bash
    git clone https://github.com/YourUsername/React.Js-ToDo-App.git
    cd React.Js-ToDo-App
-2. ** npm install**
+2. **npm install**
 3. **npm start**
 
 ## 💡 Future Enhancements
